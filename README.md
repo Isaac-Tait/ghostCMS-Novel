@@ -1,0 +1,3 @@
+# Hello World!...
+
+This is a NextJS template... Have fun
