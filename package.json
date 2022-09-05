@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "@tryghost/admin-api": "^1.13.0",
-    "@tryghost/content-api": "^1.10.0",
+    "@tryghost/content-api": "^1.11.1",
     "next": "12.2.5",
     "react": "18.2.0",
     "react-dom": "18.2.0",
